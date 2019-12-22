@@ -1,6 +1,3 @@
-// var nombre = 'Karina';
-
-// var nombre = 'Juana la alpaca'
-// alert('mi nombre es' + ' ' + nombre);
-
-// nombre = prompt('Cuál es tu nombre?')
+var ruta = window.location;
+document.write("Estás en:" + ruta);
+console.log(ruta)
