@@ -1,6 +1,6 @@
-// var nombre = 'Karina';
+var nombre = 'Karina';
 
-// var nombre = 'Juana la alpaca'
-// alert('mi nombre es' + ' ' + nombre);
+var nombre = 'Juana la alpaca'
+alert('mi nombre es' + ' ' + nombre);
 
-// nombre = prompt('Cuál es tu nombre?')
+nombre = prompt('Cuál es tu nombre?')
